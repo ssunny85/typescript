@@ -16,7 +16,7 @@ function calculator(type: Type, num1: number, num2: number): number {
     case "remainder":
       return num1 % num2;
     default:
-      throw Error('unknown error');
+      throw new Error('unknown error');
   }
 }
 

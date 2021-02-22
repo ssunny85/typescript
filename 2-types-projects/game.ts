@@ -18,7 +18,7 @@ function move(direction: Direction) {
     case "right":
       return position.x += 1;
     default:
-      throw Error('unknown error');
+      throw new Error('unknown error');
   }
 }
 
