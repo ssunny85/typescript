@@ -1,7 +1,7 @@
 {
   /**
-  * Union Types: Or
-  */
+   * Union Types: Or
+   */
   type Direction = 'left' | 'right' | 'up' | 'down';
   function move(direction: Direction) {
     console.log(direction);

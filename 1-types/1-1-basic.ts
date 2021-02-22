@@ -1,9 +1,9 @@
 {
   /**
-  * JavaScript
-  * Primitive(원시타입): number, string, boolean, null, undefined, symbol, bigint
-  * Object: function, array...
-  */
+   * JavaScript
+   * Primitive(원시타입): number, string, boolean, null, undefined, symbol, bigint
+   * Object: function, array...
+   */
 
   // number
   const num: number = -1;

@@ -1,7 +1,7 @@
 {
   /**
-  * Type Aliases
-  */
+   * Type Aliases
+   */
   type Text = string;
   const name: Text = 'test';
   const address: Text = '';
