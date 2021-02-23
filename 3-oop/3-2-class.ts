@@ -33,4 +33,6 @@
   const maker2 = new CoffeeMaker(30);
   console.log(maker);
   console.log(maker2);
+  console.log(maker.makeCoffee(1));
+  console.log(maker2.makeCoffee(2));
 }
